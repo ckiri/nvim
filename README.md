@@ -7,6 +7,23 @@ and *C/C++* as language servers as well as some other useful plugins.
 
 Install neccessary software to make sure the plugins are working right:
 
+* xclip
+* Python 3 "neovim module" via pip
+```zsh
+pip install neovim
+```
+* Python 2
+* Python
+* ruby & gem
+```zsh
+gem install neovim
+```
+* Node.js: "neovim" npm package
+```zsh
+sudo npm install -g neovim
+```
+* Perl cpan module "Neovim::Ext"
+
 in **nvim**:
 ```zsh
 :checkhealth
