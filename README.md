@@ -1,6 +1,6 @@
 # Nvim Config
 
-clone this repo into your `~/.config` in order for neovim to see it.
+clone this repo into your `~/.config` directory in order for neovim to see and use this configuration.
 
-Setup with **Gruvbox** as the colorscheme, **Lightline** as well as **COC** with *Java*
-and *C/C++* as langauage servers.
+Config contains my setup with **Gruvbox** as the colorscheme, **Lightline**, **COC** with *Java*
+and *C/C++* as language servers as well as some other useful plugins.
